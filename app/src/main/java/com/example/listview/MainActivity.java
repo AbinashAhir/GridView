@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         courseModelArrayList.add(new Gallary("Abhay", R.drawable.abhaya));
         courseModelArrayList.add(new Gallary("Abhijit", R.drawable.abhijit));
         courseModelArrayList.add(new Gallary("Abhishek", R.drawable.abhishek));
-        courseModelArrayList.add(new Gallary("Abinash", R.drawable.abinash));
+        courseModelArrayList.add(new Gallary("Abinash", R.drawable.abinash1));
         courseModelArrayList.add(new Gallary("Aditya", R.drawable.aditya));
         courseModelArrayList.add(new Gallary("Ajay", R.drawable.ajay));
         courseModelArrayList.add(new Gallary("Anima", R.drawable.anima));

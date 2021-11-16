@@ -22,9 +22,9 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="315dp"
-        android:layout_height="36dp"
-        android:text="MCA 38th Photo Gallary"
+        android:layout_width="351dp"
+        android:layout_height="37dp"
+        android:text="MCA 38th Photo Gallary 2021"
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         android:textStyle="bold"
